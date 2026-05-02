@@ -7,7 +7,6 @@ Algorithm used:
     Random Forest Regressor
 """
 import os
-import matplotlib.pyplot as plt
 import pandas as pd
 import yfinance as yf
 from sklearn.ensemble import RandomForestRegressor
